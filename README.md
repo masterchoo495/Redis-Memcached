@@ -18,7 +18,7 @@
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
 **Ответ**  
-![alt text]https://github.com/masterchoo495/Redis-Memcached/blob/main/img001.png
+![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img001.png)
 
 ---
 
@@ -29,9 +29,9 @@
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
 **Ответ**  
-![alt text]https://github.com/masterchoo495/Redis-Memcached/blob/main/img002.png
+![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img002.png)
 
-![alt text]https://github.com/masterchoo495/Redis-Memcached/blob/main/img003.png
+![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img003.png)
 
 ---
 
@@ -42,9 +42,9 @@
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
 **Ответ**  
-![alt text]https://github.com/masterchoo495/Redis-Memcached/blob/main/img004.png
+![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img004.png)
 
-![alt text]https://github.com/masterchoo495/Redis-Memcached/blob/main/img005.png
+![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img005.png)
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже разобраться в материале.
