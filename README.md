@@ -4,7 +4,7 @@
 
 *Приведите ответ в свободной форме.*
 
-**Ответ**
+**Ответ:**
 - Повышение производительности (в кэш помещаются данные, обращение к которым происходит чаще всего)
 - Увеличение скорости ответа (кэш память - очень быстрая память)
 - Сглаживание всплесков трафика (возникающих во время пиковых нагрузок)
@@ -17,7 +17,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
-**Ответ**  
+**Ответ:**  
 ![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img001.png)
 
 ---
@@ -28,7 +28,7 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
-**Ответ**  
+**Ответ:**  
 ![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img002.png)
 
 ![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img003.png)
@@ -41,7 +41,7 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
-**Ответ**  
+**Ответ:**  
 ![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img004.png)
 
 ![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img005.png)
@@ -54,3 +54,6 @@
 Запишите в Redis ключ key5 со значением типа "int" равным числу 5. Увеличьте его на 5, чтобы в итоге в значении лежало число 10.  
 
 *Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
+
+**Ответ:**  
+![alt text](https://github.com/masterchoo495/Redis-Memcached/blob/main/img006.png)
